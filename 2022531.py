@@ -1,1 +1,1 @@
-print(hellow seoulhischool)
+print(hellow seoulhighschool!)
